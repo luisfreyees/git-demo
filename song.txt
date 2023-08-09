@@ -1,1 +1,2 @@
 This is a test for the git add function
+Adding a second line to test the pull function on git
