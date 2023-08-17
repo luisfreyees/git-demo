@@ -1,2 +1,5 @@
 This is a test for the git add function
 Adding a second line to test the pull function on git
+
+Adding one more line to test the commit command. Date and hour: 16.08.23 06.39pm
+
