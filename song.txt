@@ -3,3 +3,6 @@ Adding a second line to test the pull function on git
 
 Adding one more line to test the commit command. Date and hour: 16.08.23 06.39pm
 
+Adding one more line to the test the document modification from github in my local repository. 30.08.23
+
+
