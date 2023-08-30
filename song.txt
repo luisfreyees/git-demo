@@ -5,4 +5,4 @@ Adding one more line to test the commit command. Date and hour: 16.08.23 06.39pm
 
 Adding one more line to the test the document modification from github in my local repository. 30.08.23
 
-
+As a excercise i'll add one more line to later make a pull request.
